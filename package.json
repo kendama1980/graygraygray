@@ -1,0 +1,36 @@
+{
+    "name": "graygraygray",
+    "displayName": "Gray Gray Gray",
+    "description": "A gray color theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "kendama1980",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "gray"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "graygraygray",
+                "uiTheme": "vs",
+                "path": "./themes/graygraygray-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kendama1980/graygraygray"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#C4C2C0",
+        "theme": "light"
+    }
+}
